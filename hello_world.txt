@@ -1,1 +1,3 @@
-notepad is /usr/bin/notepad
+# git_test
+My first github repo
+Hello!
